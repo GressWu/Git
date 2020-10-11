@@ -7,5 +7,6 @@ public class HelloWorld {
         System.out.println("git远程仓库直接增加一条代码");
         System.out.println("开始冲突");
         System.out.println("git远程仓库直接增加一条冲突代码");
+        System.out.println("git远程仓库直接增加第二条冲突代码");
     }
 }
