@@ -4,5 +4,6 @@ public class HelloWorld {
     public static void main(String[] args) {
         System.out.println("hello world");
         System.out.println("天朗气清惠风和畅");
+        System.out.println("git远程仓库直接增加一条代码");
     }
 }
